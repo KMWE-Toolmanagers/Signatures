@@ -17,6 +17,9 @@ Contains the base code with variables that should be filled with personal info d
 - Use the same naming conventions to make adjustments easier
 
 ## Usage
+This methode is used because Outlook processes signatures in HTML wrong by lining them out to the left, braking the indentations.
+The webversion does proces it to some degree, but other then this methode it will still brake when using the app.
+
 - Adjust the code as needed for the profile.
 - Save the code as a html file and send it to the user
 - User opens the file and sees the signature in the browser
