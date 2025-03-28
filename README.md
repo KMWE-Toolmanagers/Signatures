@@ -7,6 +7,7 @@ Contains the base code with variables that should be filled with personal info d
   - Mobile number (Display)
   - Email (Mailto)
   - Email (Display)
+  - Profile image path
 
 ## Code of Conduct
 - Every kind of image has it's own directory
