@@ -24,6 +24,6 @@ Contains the base code with variables that should be filled with personal info d
 - Save the signature
 - The user can now use the signature to send e-mails
 
-![Warning]
+>[!Warning]
 >The signature will not be immediatly available in de outlook app.
 >Close the application and start it back up again if the synchronisation takes longer then 30min.
